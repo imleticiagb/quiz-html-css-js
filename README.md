@@ -1,6 +1,4 @@
-# quiz-html-css-js
-
-##Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 - HTML
 - JavaScript
